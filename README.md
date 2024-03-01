@@ -10,7 +10,7 @@
   
 - 😄 Pronouns: She/Her
 
-- ⚡Fun fact: My GPT is #20 in the OpenAI GPT Store for writing. Looking for feedback. => https://chat.openai.com/g/g-gIHPnIed0-youtube-transcript-wizard
+- ⚡Fun fact: My GPT is #17 in the OpenAI GPT Store for writing. Looking for feedback. => https://chat.openai.com/g/g-gIHPnIed0-youtube-transcript-wizard
 
 <!---
 krissyawaters/krissyawaters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
