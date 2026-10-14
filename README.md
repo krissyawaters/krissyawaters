@@ -34,6 +34,6 @@ I like projects that sit between disciplines, especially when technology, people
 
 ---
 
-🌱 Currently learning.
-🛠️ Usually building.
+🌱 Currently learning.<br>
+🛠️ Usually building.<br>
 🕳️ Frequently disappearing into rabbit holes.
